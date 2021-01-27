@@ -31,7 +31,7 @@ function makeData(Version, NameOfServer, OwnerID, NestID, EggID, DockerImage,
 	return {
 		'name': NameOfServer,
 		'user': OwnerID,
-		'description': 'A Nodeactyl server',
+		'description': 'Made In ForceHosting Discord',
 		'egg': EggID,
 		'pack': NestID,
 		'docker_image': DockerImage,
